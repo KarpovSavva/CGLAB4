@@ -1,4 +1,4 @@
-# Install script for directory: O:/computer-graphic/lb3
+# Install script for directory: O:/computer-graphic/latest_version
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "O:/computer-graphic/lb3/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "O:/computer-graphic/latest_version/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
